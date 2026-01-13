@@ -205,7 +205,7 @@ MIT License.
 ## 👩‍💻 Author
 
 **Fotinia Sadovskaya**  
-NPM: `https://www.npmjs.com/~your_username` [(npmjs.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.npmjs.com%2F~fotinia")  
+NPM: `https://www.npmjs.com/~fotinia` [(npmjs.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.npmjs.com%2F~fotinia")  
 GitHub: `https://github.com/fotinia-sadovskaya` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Ffotinia-sadovskaya")
 
 ---
