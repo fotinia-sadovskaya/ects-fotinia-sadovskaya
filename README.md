@@ -8,15 +8,12 @@ NPM package that converts scores from 100-point grading system to ECTS grades.
 [![npm downloads](https://img.shields.io/npm/dm/ects-fotinia-sadovskaya.svg)](https://www.npmjs.com/package/ects-fotinia-sadovskaya)
 [![license](https://img.shields.io/npm/l/ects-fotinia-sadovskaya.svg)](./LICENSE)
 
-```markdown
-
----
-
 ## 🌌 Overview
 
 `ects-fotinia-sadovskaya` is a lightweight and easy‑to‑use npm package that converts scores from the 100‑point grading system into the ECTS letter grade format.  
 Created as part of the **Advanced Backend with Node.js** course.
 
+```markdown
 
 ---
 
@@ -24,6 +21,7 @@ Created as part of the **Advanced Backend with Node.js** course.
 
 ```bash
 npm install ects-fotinia-sadovskaya
+
 ```
 
 ---
