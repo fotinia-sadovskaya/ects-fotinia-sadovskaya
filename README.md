@@ -1,7 +1,17 @@
+# ects-fotinia-sadovskaya
 
-# ECTS Grade Converter
+NPM package that converts scores from 100-point grading system to ECTS grades.
 
-**Повністю зібраний, єдиний, ультра‑стильний, кіберпанковий README.md**, який включає:
+---
+
+[![npm version](https://img.shields.io/npm/v/ects-fotinia-sadovskaya.svg)](https://www.npmjs.com/package/ects-fotinia-sadovskaya)
+[![npm downloads](https://img.shields.io/npm/dm/ects-fotinia-sadovskaya.svg)](https://www.npmjs.com/package/ects-fotinia-sadovskaya)
+[![license](https://img.shields.io/npm/l/ects-fotinia-sadovskaya.svg)](./LICENSE)
+
+A lightweight and easy‑to‑use npm package that converts scores from the 100‑point grading system into the ECTS letter grade format.  
+Created as part of the **Advanced Backend with Node.js** course.
+
+---
 
 - 🔥 **Animated ASCII banner (frame‑by‑frame illusion)**  
 - 🌌 **Neon cyberpunk стиль**  
@@ -19,43 +29,6 @@
 ---
 
 ```markdown
-<div align="center">
-
-<!-- ANIMATED ASCII BANNER (illusion using gradients + layered frames) -->
-
-<pre>
-<span style="color:#ff00ff">██╗   ██╗███████╗ ██████╗████████╗███████╗</span>
-<span style="color:#ff33cc">██║   ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝</span>
-<span style="color:#ff66aa">██║   ██║█████╗  ██║        ██║   █████╗  </span>
-<span style="color:#ff3399">╚██╗ ██╔╝██╔══╝  ██║        ██║   ██╔══╝  </span>
-<span style="color:#ff0088"> ╚████╔╝ ███████╗╚██████╗   ██║   ███████╗</span>
-<span style="color:#cc0077">  ╚═══╝  ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝</span>
-</pre>
-
-<h2 style="color:#00eaff">ECTS Grade Converter for Node.js</h2>
-<p style="color:#888">Convert 100‑point scores into ECTS grades with neon‑cyberpunk energy.</p>
-
-<!-- BADGES PACK -->
-<p>
-<a href="https://www.npmjs.com/package/ects-fotinia-sadovskaya">
-<img src="https://img.shields.io/npm/v/ects-fotinia-sadovskaya?style=for-the-badge&color=ff00ff" />
-</a>
-<a href="https://www.npmjs.com/package/ects-fotinia-sadovskaya">
-<img src="https://img.shields.io/npm/dm/ects-fotinia-sadovskaya?style=for-the-badge&color=00eaff" />
-</a>
-<img src="https://img.shields.io/npm/l/ects-fotinia-sadovskaya?style=for-the-badge&color=purple" />
-
-<!-- GitHub Shields Pack -->
-<img src="https://img.shields.io/github/stars/fotinia-sadovskaya/ects-fotinia-sadovskaya?style=for-the-badge&color=yellow" />
-<img src="https://img.shields.io/github/forks/fotinia-sadovskaya/ects-fotinia-sadovskaya?style=for-the-badge&color=orange" />
-<img src="https://img.shields.io/github/issues/fotinia-sadovskaya/ects-fotinia-sadovskaya?style=for-the-badge&color=red" />
-<img src="https://img.shields.io/github/issues-pr/fotinia-sadovskaya/ects-fotinia-sadovskaya?style=for-the-badge&color=00ff9d" />
-
-<!-- CI Badge -->
-<img src="https://img.shields.io/github/actions/workflow/status/fotinia-sadovskaya/ects-fotinia-sadovskaya/node.js.yml?style=for-the-badge&color=00ffcc" />
-</p>
-
-</div>
 
 ---
 
@@ -64,17 +37,6 @@
 `ects-fotinia-sadovskaya` is a lightweight, cyberpunk‑styled npm package that converts numeric scores (0–100) into ECTS letter grades (`A`–`F`).  
 Perfect for academic dashboards, backend services, or futuristic grading systems.
 
----
-
-## 🧬 Tech Stack (Neon Badges)
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-00ff88?style=for-the-badge&logo=node.js&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-ffdd00?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-00aaff?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/NPM-ff0033?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/CI/CD-ff00ff?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
 
 ---
 
