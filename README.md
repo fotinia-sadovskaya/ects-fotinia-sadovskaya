@@ -6,7 +6,7 @@ NPM package that converts scores from 100-point grading system to ECTS grades.
 
 [![npm version](https://img.shields.io/npm/v/ects-fotinia-sadovskaya.svg)](https://www.npmjs.com/package/ects-fotinia-sadovskaya)
 [![npm downloads](https://img.shields.io/npm/dm/ects-fotinia-sadovskaya.svg)](https://www.npmjs.com/package/ects-fotinia-sadovskaya)
-[![license](https://img.shields.io/npm/l/ects-fotinia-sadovskaya.svg)](./LICENSE)
+[![license](https://img.shields.io/npm/l/ects-fotinia-sadovskaya.svg?cacheSeconds=60)](./LICENSE)
 
 ---
 
