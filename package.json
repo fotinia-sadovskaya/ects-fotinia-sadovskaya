@@ -1,6 +1,6 @@
 {
   "name": "ects-fotinia-sadovskaya",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NPM package that converts scores from 100-point grading system to ECTS grades.",
   "main": "index.js",
   "scripts": {
