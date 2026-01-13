@@ -202,10 +202,14 @@ MIT License.
 
 ---
 
-## 👩‍💻 Author
+## 👤 Author
 
 **Fotinia Sadovskaya**  
-NPM: `https://www.npmjs.com/~fotinia` [(npmjs.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.npmjs.com%2F~fotinia")  
-GitHub: `https://github.com/fotinia-sadovskaya` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Ffotinia-sadovskaya")
+📦 [NPM Package](https://www.npmjs.com/package/ects-fotinia-sadovskaya)  
+🐙 [GitHub Profile](https://github.com/fotinia-sadovskaya)  
+📁 [Repository](https://github.com/fotinia-sadovskaya/ects-fotinia-sadovskaya)
+
+[![GitHub Repo](https://img.shields.io/badge/repo-ects--fotinia--sadovskaya-blue)](https://github.com/fotinia-sadovskaya/ects-fotinia-sadovskaya)
+[![GitHub Author](https://img.shields.io/badge/author-Fotinia--Sadovskaya-purple)](https://github.com/fotinia-sadovskaya)
 
 ---
